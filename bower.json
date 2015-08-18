@@ -1,0 +1,33 @@
+{
+  "name": "jquery.remotipart",
+  "version": "1.2.1",
+  "homepage": "https://github.com/ericenns/jquery-remotipart",
+  "authors": [
+    "Eric Enns",
+    "Greg Leppert",
+    "Steve Schwartz"
+  ],
+  "description": "Rails jQuery file uploads via standard Rails "remote: true" forms.,
+  "main": "src/jquery.remotipart.js",
+  "dependencies": {
+    "jquery": ">1.8.*",
+    "jquery-ujs": ">1.0.*",
+    "jquery.iframe-transport": ">1.0.*"
+  },
+  "keywords": [
+    "jquery",
+    "iframe",
+    "upload",
+    "file",
+    "form",
+    "ajax",
+    "rails"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Gruntfile.js"
+  ]
+}
