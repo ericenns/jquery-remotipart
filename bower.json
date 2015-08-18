@@ -7,7 +7,7 @@
     "Greg Leppert",
     "Steve Schwartz"
   ],
-  "description": "Rails jQuery file uploads via standard Rails "remote: true" forms.,
+  "description": "Rails jQuery file uploads via standard Rails \"remote: true\" forms.",
   "main": "src/jquery.remotipart.js",
   "dependencies": {
     "jquery": ">1.8.*",
